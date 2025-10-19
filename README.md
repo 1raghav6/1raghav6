@@ -1,62 +1,75 @@
-<!-- Cool animated banner -->
-<h1 align="center">👋 Hi, I'm Prakash Singh Raghav</h1>
+<h1 align="center">Hey there 👋, I'm Prakash Singh Raghav</h1>
 
 <p align="center">
-  <b>Java Backend Developer | Spring Boot | REST APIs | MySQL | AWS</b><br>
-  📍 Bengaluru, India <br>
-  📧 <a href="mailto:prakash.raghav1612@gmail.com">prakash.raghav1612@gmail.com</a> |
-  🔗 <a href="https://linkedin.com/in/prakash-singh-raghav">LinkedIn</a> |
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+</p>
+
+<h3 align="center">🚀 Java Backend Developer | Building Scalable & Secure Systems</h3>
+
+---
+
+### 🧑‍💻 About Me
+- 💡 Passionate about backend development & system design  
+- ☕ Java + Spring Boot + REST APIs enthusiast  
+- ⚙️ Experienced in AWS, MySQL, and Microservices architecture  
+- 🚀 Constantly learning new tools and technologies  
+- 🧩 Love solving real-world problems with clean and efficient code  
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,aws,docker,git,github,postman,linux,redis" />
 </p>
 
 ---
 
-### 💼 Professional Experience  
-
-#### 🏢 Assistant System Engineer — Tata Consultancy Services (TCS)  
-📅 *October 2024 – Present | Bengaluru, India*  
-- Supporting the **Rolls-Royce Digital Manufacturing Team** for SAP file automation and validation.  
-- Developed **VBA-based tools** to automate Excel workflows and reduce manual processing time.  
-- Hands-on experience with **AWS Cloud**, **Web Services APIs**, and **data validation pipelines**.  
-- Validating and post-validating ~50 SAP files weekly for Rolls-Royce jet engine manufacturing.  
-
-#### ⚙️ Intern — SAIL, Bhilai Steel Plant (BSP)  
-📅 *June 2023 – August 2023 | Bhilai, India*  
-- Acquired hands-on knowledge of **induction motor design, operation, and performance analysis**.  
-- Applied **motor balancing techniques** to enhance operational efficiency and reduce vibration.  
-- Strengthened **diagnostic and troubleshooting skills** for mechanical and electrical imbalances.  
-
----
-
-### 🧠 Technical Skills  
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub streak" height="180px"/>
 </p>
 
-**Languages:** Java, C++, SQL, JavaScript  
-**Frameworks:** Spring Boot, Hibernate, Spring Data JPA, RESTful APIs  
-**Databases:** MySQL, Microsoft SQL Server  
-**Tools & Cloud:** AWS (IoT Core, Lambda), Maven, Postman, Git, VS Code  
-**Concepts:** OOPs, DSA, Microservices, Database Design  
+---
+
+### 🚧 Projects Showcase
+- 🧠 **IoT Accident Detection System** – Real-time vehicle crash alerts using AWS IoT + Firebase  
+- ☁️ **Cloud-based Task Manager API** – RESTful backend with JWT auth and PostgreSQL  
+- 📊 **Analytics Microservice** – Built on Spring Boot with Kafka and Docker  
 
 ---
 
-### 🧾 Professional Summary  
-
-A results-driven **Java Backend Developer** skilled in designing and implementing scalable, maintainable backend systems using **Spring Boot**, **REST APIs**, and **MySQL**. Adept at backend automation, database design, and API integration, with hands-on experience in **AWS Cloud** and enterprise-level automation at **TCS**. Passionate about writing clean, efficient code and building robust backend architectures.  
+### 🧠 Currently Exploring
+- 🔸 Microservices & Event-Driven Architecture  
+- 🔸 Spring Security + JWT  
+- 🔸 CI/CD using GitHub Actions & Docker  
 
 ---
+
+### 🤝 Connect With Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Coding fun">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
+---
+
+### 🎯 Fun Fact
+> “Code. Coffee. Repeat.” ☕  
+> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+
+---
+
 <p align="center">
-  💡 <i>"Code with clarity, build with purpose."</i>
+  <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
