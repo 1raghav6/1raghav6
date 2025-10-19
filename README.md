@@ -13,8 +13,7 @@ I’m a **results-driven Java Backend Developer** experienced in building scalab
 I love exploring backend technologies, improving app performance, and integrating microservices with clean architecture and efficient database design.
 
 💼 **Currently working at:** Tata Consultancy Services (TCS)  
-🛠 **Project:** Rolls-Royce Digital Manufacturing — SAP Automation using VBA  
-☁️ **Tech Interest:** Cloud (AWS), API development, and microservices  
+☁️ **Tech Interest:** API development, microservices and Cloud (AWS),  
 📫 **Reach me at:** [prakash.raghav1612@gmail.com](mailto:prakash.raghav1612@gmail.com)  
 🌐 **Portfolio:** [GitHub – 1raghav6](https://github.com/1raghav6) | [LinkedIn – Prakash Singh Raghav](https://www.linkedin.com/in/prakash-singh-raghav)
 
@@ -47,41 +46,11 @@ IoT-based emergency system to detect vehicle accidents and send real-time alerts
 
 ---
 
-### 🏢 Experience
-
-#### 💻 Assistant System Engineer — Tata Consultancy Services (Oct 2024 – Present)
-- Supporting Rolls-Royce Digital Manufacturing team using **NX PLM** and **SAP**.  
-- Automated SAP file creation using **VBA** (validated 50+ files weekly).  
-- Hands-on experience with **AWS**, **Web Services API**, and **Kodular** app development.
-
-#### ⚙️ Internship — SAIL, Bhilai Steel Plant (Jun 2023 – Aug 2023)
-- Worked with induction motors and applied **motor balancing techniques**.  
-- Learned **diagnostic and troubleshooting** methods for performance improvement.
-
----
-
 ### 🧠 Languages & Tools Expertise
 - **Languages:** Java, C++, SQL, JavaScript  
 - **Frameworks:** Spring Boot, Hibernate, JPA  
 - **Database:** MySQL, SQL Server  
 - **Others:** AWS, Postman, Git, VS Code, IntelliJ
-
----
-
-### 🏆 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1raghav6&show_icons=true&theme=tokyonight" alt="github stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1raghav6&theme=tokyonight" alt="streak stats" width="48%"/>
-</p>
-
----
-
-### 📈 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1raghav6&layout=compact&theme=tokyonight" alt="top languages" width="40%"/>
-</p>
 
 ---
 
