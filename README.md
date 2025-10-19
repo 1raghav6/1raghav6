@@ -22,7 +22,7 @@ I love exploring backend technologies, improving app performance, and integratin
 ### ⚙️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,aws,git,github,vscode,postman,maven,idea" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,aws,git,github,vscode,postman,maven,idea" />
 </p>
 
 ---
