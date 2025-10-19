@@ -10,7 +10,6 @@
   📍 Bengaluru, India <br>
   📧 <a href="mailto:prakash.raghav1612@gmail.com">prakash.raghav1612@gmail.com</a> |
   🔗 <a href="https://linkedin.com/in/prakash-singh-raghav">LinkedIn</a> |
-  💻 <a href="https://github.com/1raghav6">GitHub</a>
 </p>
 
 ---
