@@ -4,72 +4,84 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
 </p>
 
-<h3 align="center">🚀 Java Backend Developer | Building Scalable & Secure Systems</h3>
+<h3 align="center">💻 Java Backend Developer | Spring Boot | REST APIs | AWS</h3>
 
 ---
 
-### 🧑‍💻 About Me
-- 💡 Passionate about backend development & system design  
-- ☕ Java + Spring Boot + REST APIs enthusiast  
-- ⚙️ Experienced in AWS, MySQL, and Microservices architecture  
-- 🚀 Constantly learning new tools and technologies  
-- 🧩 Love solving real-world problems with clean and efficient code  
+### 👨‍💻 About Me
+🚀 Passionate **Java Backend Developer** with hands-on experience in **Spring Boot**, **Hibernate**, and **REST API** development.  
+🧩 Skilled in building scalable, maintainable systems using **MySQL**, **AWS**, and **Microservices architecture**.  
+⚙️ Strong understanding of **OOP**, **data structures**, and **clean code principles**.  
+🌱 Always exploring new technologies and backend frameworks.  
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,aws,docker,git,github,postman,linux,redis" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,aws,docker,postman,git,github,linux,vscode" />
 </p>
+
+---
+
+### 🧩 Featured Projects
+
+#### 📝 JournalApp – Spring Boot RESTful Web Application
+- Built a **Journal Management App** using **Spring Boot** and **MySQL**.
+- Implemented full **CRUD** operations with **Spring Data JPA**, **validation**, and **exception handling**.
+- Designed a clean **Controller–Service–Repository** layered architecture.
+- Tested endpoints with **Postman** and **JUnit** for reliability.
+
+#### 🚗 Emergency SOS Device for Cars (IoT + Cloud)
+- Developed an **IoT-based accident detection system** using **AWS IoT Core**, **Lambda**, and **Firebase**.
+- Implemented real-time **location tracking** and **alert notifications** to hospitals and family members.
+- Built a responsive **web dashboard** for monitoring live data and automated **SMS/email alerts**.
+
+---
+
+### ☕ Experience
+
+#### 💼 Assistant System Engineer — Tata Consultancy Services *(Oct 2024 – Present)*
+- Working in the **Rolls-Royce Digital Manufacturing Team** on **SAP automation** using VBA.  
+- Involved in **data validation**, **file creation**, and **automation projects** improving process efficiency.  
+- Hands-on exposure to **AWS**, **Web Services API**, and **cloud application integration**.
+
+#### 🏭 Internship — SAIL, Bhilai Steel Plant *(Jun 2023 – Aug 2023)*
+- Learned **motor performance analysis**, **balancing techniques**, and **real-time troubleshooting**.
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub streak" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=1raghav6&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1raghav6&theme=tokyonight" height="180px"/>
 </p>
 
 ---
 
-### 🚧 Projects Showcase
-- 🧠 **IoT Accident Detection System** – Real-time vehicle crash alerts using AWS IoT + Firebase  
-- ☁️ **Cloud-based Task Manager API** – RESTful backend with JWT auth and PostgreSQL  
-- 📊 **Analytics Microservice** – Built on Spring Boot with Kafka and Docker  
-
----
-
-### 🧠 Currently Exploring
-- 🔸 Microservices & Event-Driven Architecture  
-- 🔸 Spring Security + JWT  
-- 🔸 CI/CD using GitHub Actions & Docker  
-
----
-
-### 🤝 Connect With Me
+### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+  <a href="https://linkedin.com/in/prakash-singh-raghav" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:prakash.raghav1612@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/1raghav6">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 ---
 
-### 🎯 Fun Fact
-> “Code. Coffee. Repeat.” ☕  
-> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+### ⚡ Fun Zone
+> “Eat. Sleep. Code. Repeat.” ☕  
+> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
 
 ---
 
 <p align="center">
-  <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/1raghav6/1raghav6/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
