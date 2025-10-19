@@ -1,87 +1,98 @@
-<h1 align="center">Hey there 👋, I'm Prakash Singh Raghav</h1>
+<!-- Profile README for Prakash Singh Raghav -->
+<h1 align="center">Hi 👋, I'm Prakash Singh Raghav</h1>
+<h3 align="center">🚀 A Passionate Java Backend Developer from Bengaluru, India</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
-</p>
-
-<h3 align="center">💻 Java Backend Developer | Spring Boot | REST APIs | AWS</h3>
-
----
-
-### 👨‍💻 About Me
-🚀 Passionate **Java Backend Developer** with hands-on experience in **Spring Boot**, **Hibernate**, and **REST API** development.  
-🧩 Skilled in building scalable, maintainable systems using **MySQL**, **AWS**, and **Microservices architecture**.  
-⚙️ Strong understanding of **OOP**, **data structures**, and **clean code principles**.  
-🌱 Always exploring new technologies and backend frameworks.  
-
----
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,aws,docker,postman,git,github,linux,vscode" />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
 </p>
 
 ---
 
-### 🧩 Featured Projects
+### 🧑‍💻 About Me
+I’m a **results-driven Java Backend Developer** experienced in building scalable and maintainable applications using **Spring Boot**, **Hibernate**, and **RESTful APIs**.  
+I love exploring backend technologies, improving app performance, and integrating microservices with clean architecture and efficient database design.
 
-#### 📝 JournalApp – Spring Boot RESTful Web Application
-- Built a **Journal Management App** using **Spring Boot** and **MySQL**.
-- Implemented full **CRUD** operations with **Spring Data JPA**, **validation**, and **exception handling**.
-- Designed a clean **Controller–Service–Repository** layered architecture.
-- Tested endpoints with **Postman** and **JUnit** for reliability.
-
-#### 🚗 Emergency SOS Device for Cars (IoT + Cloud)
-- Developed an **IoT-based accident detection system** using **AWS IoT Core**, **Lambda**, and **Firebase**.
-- Implemented real-time **location tracking** and **alert notifications** to hospitals and family members.
-- Built a responsive **web dashboard** for monitoring live data and automated **SMS/email alerts**.
+💼 **Currently working at:** Tata Consultancy Services (TCS)  
+🛠 **Project:** Rolls-Royce Digital Manufacturing — SAP Automation using VBA  
+☁️ **Tech Interest:** Cloud (AWS), API development, and microservices  
+📫 **Reach me at:** [prakash.raghav1612@gmail.com](mailto:prakash.raghav1612@gmail.com)  
+🌐 **Portfolio:** [GitHub – 1raghav6](https://github.com/1raghav6) | [LinkedIn – Prakash Singh Raghav](https://www.linkedin.com/in/prakash-singh-raghav)
 
 ---
 
-### ☕ Experience
-
-#### 💼 Assistant System Engineer — Tata Consultancy Services *(Oct 2024 – Present)*
-- Working in the **Rolls-Royce Digital Manufacturing Team** on **SAP automation** using VBA.  
-- Involved in **data validation**, **file creation**, and **automation projects** improving process efficiency.  
-- Hands-on exposure to **AWS**, **Web Services API**, and **cloud application integration**.
-
-#### 🏭 Internship — SAIL, Bhilai Steel Plant *(Jun 2023 – Aug 2023)*
-- Learned **motor performance analysis**, **balancing techniques**, and **real-time troubleshooting**.
-
----
-
-### 📈 GitHub Stats
+### ⚙️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1raghav6&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1raghav6&theme=tokyonight" height="180px"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,aws,git,github,vscode,postman,maven,idea" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
+### 🧩 Projects
+
+#### 📝 [JournalApp](https://github.com/1raghav6/JournalApp)
+A **Spring Boot RESTful Web Application** for managing personal journal entries.  
+**Features:**
+- CRUD operations via RESTful APIs  
+- Spring Data JPA with MySQL  
+- Validation & exception handling  
+- Layered architecture (Controller–Service–Repository)  
+- Unit testing with JUnit and Postman
+
+#### 🚨 Emergency SOS Device for Cars
+IoT-based emergency system to detect vehicle accidents and send real-time alerts.  
+- Integrated **AWS IoT Core**, **Lambda**, and **Firebase Database**  
+- Automated alerts to hospitals, police, and family  
+- Web dashboard for monitoring and analytics
+
+---
+
+### 🏢 Experience
+
+#### 💻 Assistant System Engineer — Tata Consultancy Services (Oct 2024 – Present)
+- Supporting Rolls-Royce Digital Manufacturing team using **NX PLM** and **SAP**.  
+- Automated SAP file creation using **VBA** (validated 50+ files weekly).  
+- Hands-on experience with **AWS**, **Web Services API**, and **Kodular** app development.
+
+#### ⚙️ Internship — SAIL, Bhilai Steel Plant (Jun 2023 – Aug 2023)
+- Worked with induction motors and applied **motor balancing techniques**.  
+- Learned **diagnostic and troubleshooting** methods for performance improvement.
+
+---
+
+### 🧠 Languages & Tools Expertise
+- **Languages:** Java, C++, SQL, JavaScript  
+- **Frameworks:** Spring Boot, Hibernate, JPA  
+- **Database:** MySQL, SQL Server  
+- **Others:** AWS, Postman, Git, VS Code, IntelliJ
+
+---
+
+### 🏆 GitHub Stats
 
 <p align="center">
-  <a href="https://linkedin.com/in/prakash-singh-raghav" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:prakash.raghav1612@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/1raghav6">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=1raghav6&show_icons=true&theme=tokyonight" alt="github stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1raghav6&theme=tokyonight" alt="streak stats" width="48%"/>
 </p>
 
 ---
 
-### ⚡ Fun Zone
-> “Eat. Sleep. Code. Repeat.” ☕  
-> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+### 📈 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1raghav6&layout=compact&theme=tokyonight" alt="top languages" width="40%"/>
+</p>
 
 ---
 
+### ✨ Fun Fact
+> “Code is like humor. When you have to explain it, it’s bad.” 😄
+
 <p align="center">
-  <img src="https://github.com/1raghav6/1raghav6/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
 </p>
+
+---
+
+⭐️ **From [Prakash Singh Raghav](https://github.com/1raghav6)**  
+🚀 *Let’s build something impactful together!*
